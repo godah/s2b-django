@@ -56,3 +56,5 @@ docs/_build/
 
 # PyBuilder
 target/
+
+s2b_blog/db\.sqlite3
